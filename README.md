@@ -1,0 +1,3 @@
+This was a project from the Odin Project http://www.theodinproject.com/courses/ruby-programming/lessons/linked-lists?ref=lc-pb
+
+The goal of the exercise was to understand how linked lists work. I created the files to implement linked lists and nodes. If I understand the readings, Ruby itself doesn't use linked lists because its arrays function in much the same way linked lists do at the machine level.
